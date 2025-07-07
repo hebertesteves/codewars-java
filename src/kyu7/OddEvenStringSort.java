@@ -1,4 +1,4 @@
-package kyu8;
+package kyu7;
 
 public class OddEvenStringSort {
     public static String sortMyString(String s) {
