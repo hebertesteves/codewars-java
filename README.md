@@ -35,7 +35,7 @@ codewars-java/
 │   └── MakeNegative.java
 │
 ├── kyu7/
-│   └── OutroExercicio.java
+│   └── Vogais.java
 │
 ├── kyu6/
 │   └── DesafioAvancado.java
