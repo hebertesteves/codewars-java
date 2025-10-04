@@ -38,7 +38,7 @@ codewars-java/
 │   └── Vogais.java
 │
 ├── kyu6/
-│   └── DesafioAvancado.java
+│   └── SumOfPrimelndexedElements.java
 │
 ├── ...
 ├── README.md
