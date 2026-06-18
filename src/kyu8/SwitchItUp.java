@@ -2,7 +2,7 @@ package kyu8;
 
 public class SwitchItUp {
     public static String switchItUp(int number) {
-        String result = switch (number) {
+        return switch (number) {
             case 0 -> "Zero";
             case 1 -> "One";
             case 2 -> "Two";
@@ -15,8 +15,6 @@ public class SwitchItUp {
             case 9 -> "Nine";
             default -> "Invalid number";
         };
-
-        return result;
     }
 
     public static void main(String[] args) {
