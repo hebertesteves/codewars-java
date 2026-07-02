@@ -2,8 +2,8 @@ package kyu8;
 
 public class SumTheStrings {
     public static String sumStr(String a, String b){
-        int n1 = (a.equals("") ? 0 : Integer.parseInt(a));
-        int n2 = (b.equals("") ? 0 : Integer.parseInt(b));
+        int n1 = (a.isEmpty() ? 0 : Integer.parseInt(a));
+        int n2 = (b.isEmpty() ? 0 : Integer.parseInt(b));
         return String.valueOf(n1 + n2);
     }
 
